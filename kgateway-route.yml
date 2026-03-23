@@ -19,6 +19,6 @@ spec:
               type: ReplacePrefixMatch
               replacePrefixMatch: /
       backendRefs:
-        - name: mysql-service
+        - name: capsule-service
           port: 80
  
